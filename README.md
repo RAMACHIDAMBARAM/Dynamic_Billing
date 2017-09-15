@@ -1,1 +1,1 @@
-# Dynamic_Billing
+Make folders for CSS, Image and JS 
